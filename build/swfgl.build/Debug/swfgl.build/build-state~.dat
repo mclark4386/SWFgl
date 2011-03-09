@@ -1,0 +1,75 @@
+Tswfgl
+v7
+r0
+t321334516.029476
+cCheck dependencies
+cCompileC build/swfgl.build/Debug/swfgl.build/Objects-normal/x86_64/main.o /Users/matthewclark/Documents/swfgl/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D3A477300000000000000EE
+t1295665011
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/matthewclark/Documents/swfgl/build/Debug/swfgl
+t2
+s0
+
+N/Users/matthewclark/Documents/swfgl/build/swfgl.build/Debug/swfgl.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/matthewclark/Documents/swfgl/build/swfgl.build/Debug/swfgl.build/Objects-normal/x86_64/swfgl.LinkFileList
+c000000004D76F5730000000000000065
+t1299641715
+s101
+
+N/Users/matthewclark/Documents/swfgl/main.c
+c000000004D76F55E00000000000000AD
+t1299641694
+s173
+i<stdio.h>
+i"tag.h"
+
+N/Users/matthewclark/Documents/swfgl/tag.h
+c000000004D76F56F00000000000013B3
+t1299641711
+s5043
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321334515#321334515#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/swfgl.build/Debug/swfgl.build/Objects-normal/x86_64/main.o /Users/matthewclark/Documents/swfgl/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s321334515.286870
+e321334516.029396
+r0
+xCompileC
+xbuild/swfgl.build/Debug/swfgl.build/Objects-normal/x86_64/main.o
+x/Users/matthewclark/Documents/swfgl/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/matthewclark/Documents/swfgl/main.c:2:
+o/Users/matthewclark/Documents/swfgl/tag.h:18: error: two or more data types in declaration specifiers
+o/Users/matthewclark/Documents/swfgl/tag.h: In function 'TagGetType':
+o/Users/matthewclark/Documents/swfgl/tag.h:20: warning: implicit declaration of function 'malloc'
+o/Users/matthewclark/Documents/swfgl/tag.h:20: warning: incompatible implicit declaration of built-in function 'malloc'
+o/Users/matthewclark/Documents/swfgl/tag.h:282: error: expected expression before 'char'
+o/Users/matthewclark/Documents/swfgl/tag.h:283: error: 'temp' undeclared (first use in this function)
+o/Users/matthewclark/Documents/swfgl/tag.h:283: error: (Each undeclared identifier is reported only once
+o/Users/matthewclark/Documents/swfgl/tag.h:283: error: for each function it appears in.)
+o/Users/matthewclark/Documents/swfgl/tag.h:287: warning: return from incompatible pointer type
+o/Users/matthewclark/Documents/swfgl/main.c: In function 'main':
+o/Users/matthewclark/Documents/swfgl/main.c:6: warning: format '%s' expects type 'char *', but argument 2 has type 'struct SWFglTag *'
+lSLF07#2@50"Compile /Users/matthewclark/Documents/swfgl/main.c321334515#321334516#0(1128"In file included from /Users/matthewclark/Documents/swfgl/main.c:2:/Users/matthewclark/Documents/swfgl/tag.h:18: error: two or more data types in declaration specifiers/Users/matthewclark/Documents/swfgl/tag.h: In function 'TagGetType':/Users/matthewclark/Documents/swfgl/tag.h:20: warning: implicit declaration of function 'malloc'/Users/matthewclark/Documents/swfgl/tag.h:20: warning: incompatible implicit declaration of built-in function 'malloc'/Users/matthewclark/Documents/swfgl/tag.h:282: error: expected expression before 'char'/Users/matthewclark/Documents/swfgl/tag.h:283: error: 'temp' undeclared (first use in this function)/Users/matthewclark/Documents/swfgl/tag.h:283: error: (Each undeclared identifier is reported only once/Users/matthewclark/Documents/swfgl/tag.h:283: error: for each function it appears in.)/Users/matthewclark/Documents/swfgl/tag.h:287: warning: return from incompatible pointer type/Users/matthewclark/Documents/swfgl/main.c: In function 'main':/Users/matthewclark/Documents/swfgl/main.c:6: warning: format '%s' expects type 'char *', but argument 2 has type 'struct SWFglTag *'7(4@48"Two or more data types in declaration specifiers321334516#68#102#2(7@64"In file included from /Users/matthewclark/Documents/swfgl/main.c321334515#18446744073709551615#0#0(6@42"/Users/matthewclark/Documents/swfgl/main.c321334494#2#0#2#0#0"0(13@93"Two or more data types in declaration specifiers in /Users/matthewclark/Documents/swfgl/tag.h321334516#18446744073709551615#0#0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#18#0#18#0#0"0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#18#0#18#0#48"two or more data types in declaration specifiers0(22@41"Implicit declaration of function 'malloc'321334516#239#97#2(7@64"In file included from /Users/matthewclark/Documents/swfgl/main.c321334515#18446744073709551615#0#0(6@42"/Users/matthewclark/Documents/swfgl/main.c321334494#2#0#2#0#0"0(13@86"Implicit declaration of function 'malloc' in /Users/matthewclark/Documents/swfgl/tag.h321334516#18446744073709551615#0#0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#20#0#20#0#0"0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#20#0#20#0#36"implicit declaration of function '*'0(22@63"Incompatible implicit declaration of built-in function 'malloc'321334516#336#119#2(7@64"In file included from /Users/matthewclark/Documents/swfgl/main.c321334515#18446744073709551615#0#0(6@42"/Users/matthewclark/Documents/swfgl/main.c321334494#2#0#2#0#0"0(13@108"Incompatible implicit declaration of built-in function 'malloc' in /Users/matthewclark/Documents/swfgl/tag.h321334516#18446744073709551615#0#0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#20#0#20#0#0"0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#20#0#20#0#0"0(4@33"Expected expression before 'char'321334516#455#88#2(7@64"In file included from /Users/matthewclark/Documents/swfgl/main.c321334515#18446744073709551615#0#0(6@42"/Users/matthewclark/Documents/swfgl/main.c321334494#2#0#2#0#0"0(13@78"Expected expression before 'char' in /Users/matthewclark/Documents/swfgl/tag.h321334516#18446744073709551615#0#0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#282#0#282#0#0"0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#282#0#282#0#19"expected * before *0(4@46"'temp' undeclared (first use in this function)321334516#543#101#2(7@64"In file included from /Users/matthewclark/Documents/swfgl/main.c321334515#18446744073709551615#0#0(6@42"/Users/matthewclark/Documents/swfgl/main.c321334494#2#0#2#0#0"0(13@91"'temp' undeclared (first use in this function) in /Users/matthewclark/Documents/swfgl/tag.h321334516#18446744073709551615#0#0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#283#0#283#0#0"0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#283#0#283#0#43"'*' undeclared (first use in this function)0(22@37"Return from incompatible pointer type321334516#836#94#2(7@64"In file included from /Users/matthewclark/Documents/swfgl/main.c321334515#18446744073709551615#0#0(6@42"/Users/matthewclark/Documents/swfgl/main.c321334494#2#0#2#0#0"0(13@82"Return from incompatible pointer type in /Users/matthewclark/Documents/swfgl/tag.h321334516#18446744073709551615#0#0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#287#0#287#0#0"0(6@41"/Users/matthewclark/Documents/swfgl/tag.h321334511#287#0#287#0#0"0(22@78"Format '%s' expects type 'char *', but argument 2 has type 'struct SWFglTag *'321334516#994#134#0(6@42"/Users/matthewclark/Documents/swfgl/main.c321334494#6#0#6#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#42"/Users/matthewclark/Documents/swfgl/main.c7955997338297972736#1201"    cd /Users/matthewclark/Documents/swfgl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/matthewclark/Documents/swfgl/build/swfgl.build/Debug/swfgl.build/swfgl-generated-files.hmap -I/Users/matthewclark/Documents/swfgl/build/swfgl.build/Debug/swfgl.build/swfgl-own-target-headers.hmap -I/Users/matthewclark/Documents/swfgl/build/swfgl.build/Debug/swfgl.build/swfgl-all-target-headers.hmap -iquote /Users/matthewclark/Documents/swfgl/build/swfgl.build/Debug/swfgl.build/swfgl-project-headers.hmap -F/Users/matthewclark/Documents/swfgl/build/Debug -I/Users/matthewclark/Documents/swfgl/build/Debug/include -I/Users/matthewclark/Documents/swfgl/build/swfgl.build/Debug/swfgl.build/DerivedSources/x86_64 -I/Users/matthewclark/Documents/swfgl/build/swfgl.build/Debug/swfgl.build/DerivedSources -c /Users/matthewclark/Documents/swfgl/main.c -o /Users/matthewclark/Documents/swfgl/build/swfgl.build/Debug/swfgl.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/matthewclark/Documents/swfgl/build/Debug/swfgl normal x86_64
+r0
+
