@@ -1,3 +1,9 @@
 SWFgl is a c-lib intended to used with opengl loading/running swf files.
 
 This project under the GPL v2 until I deem otherwise.
+
+
+Useful links:
+http://www.the-labs.com/MacromediaFlash/SWF-Spec/SWFfileformat.html
+http://www.m2osw.com/swf_alexref.html
+
