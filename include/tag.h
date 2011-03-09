@@ -256,6 +256,7 @@ char* TagGetType(unsigned short id)
 		case 84:
 			result = "DefineMorphShape2 (V8.0)";
 			break;
+
 			// SWF Version 9.0
 		case 86:
 			result = "DefineSceneAndFrameData(v9.0)";
