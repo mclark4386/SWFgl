@@ -3,7 +3,8 @@
 char* TagGetType(unsigned short id)
 {
 	char* result = (char*)malloc(sizeof(char)*50);
-	for(int i =0; i<50; i++)
+	int i;
+	for(i =0; i<50; i++)
 		result[i] = '\0';
 
 	switch (id)
